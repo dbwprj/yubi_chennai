@@ -1,4 +1,5 @@
-key objective of the training is
+consider the following ..
+
 
 1. always go from architecture to code.
 2. new syntax and doubts will keep coming can we write a small program which clarifies our doubt.
